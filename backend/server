@@ -1,3 +1,0 @@
-git add backend/
-git commit -am "setup django project"
-git push
